@@ -1,0 +1,16 @@
+thistuple = ("apple", "banana", "cherry")
+print(thistuple[1])
+thistuple = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
+print(thistuple[2:5])
+y = list(thistuple)
+y.append("orange")
+thistuple = tuple(y)
+print(thistuple)
+tuple1 = ("a", "b" , "c")
+tuple2 = (1, 2, 3)
+
+tuple3 = tuple1 + tuple2
+print(tuple3)
+thistuple = (1, 3, 7, 8, 7, 5, 4, 6, 8, 5)
+x = thistuple.count(5)
+print(x)

@@ -1,0 +1,8 @@
+Produse_Disponibile Pret_Vanzare Discount
+Mere 13.32 0
+Pere 23.3 10
+Gutui 4.5 0
+Ciocolata 5.4 2.5
+Paine 4.5 0
+Seminte 7.5 1
+Lapte 7.5 3

@@ -1,0 +1,12 @@
+Produse_Disponibile Categorie Pret_Vanzare Discount
+Mere A 13.32 0
+Pere A 23.3 10
+Gutui A 4.5 0
+Ciocolata A 5.4 2.5
+Paine A 4.5 0
+Seminte A 7.5 1
+Lapte A 7.5 3
+Hartie N 4.5 2
+Bicilete N 25.45 4
+Pantofi N 3.45 4
+ 
